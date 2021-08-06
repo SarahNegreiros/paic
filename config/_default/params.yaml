@@ -8,7 +8,7 @@
 theme: minimal
 day_night: false
 font: native
-font_size: L
+font_size: M
 
 # SEO
 
@@ -50,15 +50,15 @@ main_menu:
   align: r
   show_logo: true
   show_language: false
-  show_day_night: true
-  show_search: true
+  show_day_night: false
+  show_search: false
   highlight_active_link: false
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: '2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: pt-br
 
 # Site features
 
