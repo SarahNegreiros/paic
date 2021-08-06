@@ -1,3 +1,3 @@
 ---
-title: Editais
+title: Editais Abertos
 ---

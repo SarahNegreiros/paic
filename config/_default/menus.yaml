@@ -10,7 +10,7 @@ main:
   - name: Editais
     url: edital
     weight: 25
-  - name: Comissão
+  - name: Coordenação
     url: people
     weight: 30
   - name: ENCITA
@@ -19,6 +19,3 @@ main:
   - name: Anais
     url: publication
     weight: 50
-  - name: Contato
-    url: contact
-    weight: 60
