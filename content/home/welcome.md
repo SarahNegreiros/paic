@@ -18,5 +18,5 @@ design:
 
 <br>
 
-Programa que apoia o desenvolvimento do pensamento científico e da iniciação
+Apoio ao desenvolvimento do pensamento científico e da iniciação
 à pesquisa científica e tecnológica de estudantes de graduação.
