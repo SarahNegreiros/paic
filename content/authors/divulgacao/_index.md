@@ -1,14 +1,14 @@
 ---
-title: Outra Pessoa
+title: Willer G. Santos
 role: Divulgação
 
 social:
 - icon: globe
   icon_pack: fas
-  link: 'http://www.comp.ita.br/~verri/'
+  link: 'http://www.aer.ita.br/conteudo/willer'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:verri@ita.br'
+  link: 'mailto:willer@ita.br'
 
 highlight_name: false
 

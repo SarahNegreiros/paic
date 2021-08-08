@@ -1,14 +1,14 @@
 ---
-title: Alguém
+title: Lourenço A. Pereira Jr
 role: Científico
 
 social:
 - icon: globe
   icon_pack: fas
-  link: 'http://www.comp.ita.br/~verri/'
+  link: 'http://www.comp.ita.br/~ljr/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:verri@ita.br'
+  link: 'mailto:ljr@ita.br'
 
 highlight_name: false
 
