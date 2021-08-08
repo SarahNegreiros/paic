@@ -1,38 +1,20 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: PAIC ITA # Website name
-baseurl: 'http://www.comp.ita.br/~verri/paic/' # Website URL
-copyright: '© {year} CAIC ITA' # Footer text, e.g. '© {year} Me'
-
-############################
-## LANGUAGE
-############################
+title: PAIC ITA
+baseurl: 'http://www.comp.ita.br/~verri/paic/'
+copyright: '© {year} CAIC ITA'
 
 defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-############################
-## MODULES
-############################
-
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
   hugoVersion:
-    min: '0.84.1'
+    min: '0.83.1'
     extended: true
 
-############################
-## ADVANCED
-############################
-
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -41,9 +23,9 @@ footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
-  tags: '/tag/:slug/'
   categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  # tags: '/tag/:slug/'
+  # publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
