@@ -1,18 +1,18 @@
 ---
-title: Example Event
+title: ENCITA 2020
 
 event: Wowchemy Conference
-event_url: https://example.org
 
-location: Wowchemy HQ
+location: Instituto Tecnológico de Aeronáutica (virtual)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Praça Marechal Eduardo Gomes, 50
+  city: São José dos Campos
+  region: SP
+  postcode: 12228900
+  country: Brasil
 
 summary: An example event.
+
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.

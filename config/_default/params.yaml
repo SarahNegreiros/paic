@@ -1,4 +1,4 @@
-theme: minimal
+theme: coffee
 day_night: false
 font: native
 font_size: M
@@ -29,7 +29,7 @@ address_format: pt-br
 
 highlight: false
 math: false
-diagram: false
+diagram: true
 privacy_pack: false
 show_related:
   post: true

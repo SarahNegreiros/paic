@@ -8,7 +8,7 @@ main:
   - name: Coordenação
     url: people
     weight: 30
-  - name: ENCITA
+  - name: Eventos
     url: event
     weight: 40
   - name: Publicações
