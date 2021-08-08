@@ -3,15 +3,15 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: PAIC ITA # Website name
-baseurl: '' # Website URL
+title: PAIC | ITA # Website name
+baseurl: 'http://www.comp.ita.br/~verri/paic/' # Website URL
 copyright: '© {year} CAIC ITA' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: pt
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

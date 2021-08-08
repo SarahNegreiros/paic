@@ -21,7 +21,7 @@ feature:
     name: Como participar?
     description: |
       Há várias formas de participar.  Alunos e orientadores podem consultar as
-      normas de cada um dos programas abaixo.
+      normas de cada uma das modalidades abaixo.
   - icon: calendar
     icon_pack: fas
     name: Quando?

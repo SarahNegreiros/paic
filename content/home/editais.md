@@ -3,11 +3,11 @@ widget: pages
 headless: true
 weight: 17
 
-title: Editais abertos
+title: Modalidades
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: edital
+  page_type: modalidade
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
   # Choose how many pages you would like to offset by
