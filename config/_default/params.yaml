@@ -36,7 +36,6 @@ show_related:
   project: true
   publication: true
   talk: true
-  modalidade: true
 reading_time: false
 section_pager: false
 sharing: true

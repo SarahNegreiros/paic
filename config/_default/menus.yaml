@@ -3,7 +3,7 @@ main:
     url: post
     weight: 20
   - name: Modalidades
-    url: modalidade
+    url: project
     weight: 25
   - name: Coordenação
     url: people

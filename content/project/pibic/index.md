@@ -4,8 +4,6 @@
 title: PIBIC
 summary: Programa Institucional de Bolsas de Iniciação Científica
 date: 2021-08-06T10:32:28-03:00
-show_date: false
-profile: false
 ---
 
 ## O que é o programa?
@@ -26,10 +24,6 @@ seleção está regulamentado em Edital elaborado segundo a Resolução Normativ
 017/2006 do CNPq sobre o PIBIC e nas Portarias nº 1.122, de 19.03.2020 e  1.329
 de 27.03 de 2020 do MCTIC.
 
-## Instruções para alunos
-
-## Instruções para orientadores
-
 ## Fluxo
 
 ```mermaid
@@ -37,21 +31,26 @@ sequenceDiagram
   participant Aluno
   participant Orientador
   participant Coordenação
-  Aluno->Coordenação: Hello Coordenação, how are you?
-  loop Healthcheck
-      Coordenação->Coordenação: Fight against hypochondria
-  end
-  Note right of Coordenação: Rational thoughts <br/>prevail...
-  Coordenação-->Aluno: Great!
-  Coordenação->Orientador: How about you?
-  Orientador-->Coordenação: Jolly good!
+  Coordenação->>Orientador: Divulgação do Edital
+  Orientador->>Coordenação: Inscrição no Edital
+  Coordenação->Coordenação: Avalia orientadores
+  Coordenação->>Orientador: Divulgação dos resultados
+  Orientador->>Aluno: Divulgação da bolsa
+  Aluno->>Orientador: Declara interesse diretamente ao orientador
+  Orientador->Orientador: Seleciona o bolsista
+  Orientador->>Coordenação: Indica o bolsista
+  Aluno-->Orientador: Desenvolvem o projeto
+  Orientador->>Coordenação: Notifica o desempenho do bolsista
+  Aluno->>Coordenação: Submissão no ENCITA
 ```
+
+## Instruções para alunos
+
+## Instruções para orientadores
 
 ## FAQ
 
-1. {{< spoiler text="Sou aluno militar ou aluno de primeiro ano (CPOR) do ITA. Posso concorrer a bolsa?" >}}
-Não, são elegíveis apenas alunos com dedicação exclusiva à pesquisa, sem
-vínculo empregatício e que não usufruam de outras bolsas da mesma natureza.
+{{< spoiler text="Sou aluno militar ou aluno de primeiro ano (CPOR) do ITA. Posso concorrer a bolsa?" >}}
+  Não, são elegíveis apenas alunos com dedicação exclusiva à pesquisa, sem
+  vínculo empregatício e que não usufruam de outras bolsas da mesma natureza.
 {{< /spoiler >}}
-2. Foo
-
