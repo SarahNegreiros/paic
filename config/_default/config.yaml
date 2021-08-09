@@ -22,7 +22,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  authors: '/person/:slug/'
   categories: '/category/:slug/'
   # tags: '/tag/:slug/'
   # publication_types: '/publication-type/:slug/'

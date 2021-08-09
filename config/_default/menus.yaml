@@ -11,6 +11,6 @@ main:
   - name: Eventos
     url: event
     weight: 40
-  - name: Publicações
-    url: publication
-    weight: 50
+#  - name: Publicações
+#    url: publication
+#    weight: 50

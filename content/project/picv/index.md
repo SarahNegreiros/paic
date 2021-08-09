@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: PICV
 summary: Programa de Iniciação Científica e Tecnológica Voluntária
 date: 2021-08-06T10:33:13-03:00
@@ -10,7 +8,7 @@ date: 2021-08-06T10:33:13-03:00
 
 É o programa de Iniciação Científica e Tecnológica para qualquer aluno
 regularmente matriculado no ensino superior.  A pesquisa será desenvolvida sob
-orientação de um professor do Instituto Tecnológico de Aeronáutica.
+orientação de um professor do Instituto Tecnológico de Aeronáutica (ITA).
 
 ## Fluxo
 
