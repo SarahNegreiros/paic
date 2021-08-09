@@ -53,4 +53,9 @@ sequenceDiagram
 {{< spoiler text="Sou aluno militar ou aluno de primeiro ano (CPOR) do ITA. Posso concorrer a bolsa?" >}}
   Não, são elegíveis apenas alunos com dedicação exclusiva à pesquisa, sem
   vínculo empregatício e que não usufruam de outras bolsas da mesma natureza.
+  No entanto, você pode participar do [PICV]({{< relref "/project/picv" >}}).
+{{< /spoiler >}}
+
+{{< spoiler text="Não sou aluno do ITA. Posso concorrer à bolsa?" >}}
+  Sim, desde que esteja regularmente matriculado na graduação em qualquer outra instituição superior de ensino.
 {{< /spoiler >}}
