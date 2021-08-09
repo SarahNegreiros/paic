@@ -37,4 +37,4 @@ forma complementar a formação acadêmica.
 Adicionalmente conecta o aluno com o ambiente de pesquisa do ITA, incluindo
 a possibilidade de continuidade das atividades realizadas no projeto de
 iniciação com o [Programa de Mestrado para Graduandos
-(PMG)](http://www.ita.br/posgrad/mestrado).
+(PMG)]({{< relref "/project/pmg" >}}).
