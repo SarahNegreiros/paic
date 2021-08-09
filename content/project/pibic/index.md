@@ -31,17 +31,17 @@ sequenceDiagram
   participant Aluno
   participant Orientador
   participant Coordenação
-  Coordenação->>Orientador: Divulgação do Edital
-  Orientador->>Coordenação: Inscrição no Edital
-  Coordenação->Coordenação: Avalia orientadores
-  Coordenação->>Orientador: Divulgação dos resultados
-  Orientador->>Aluno: Divulgação da bolsa
-  Aluno->>Orientador: Declara interesse diretamente ao orientador
+  Coordenação->>Orientador: Divulga o Edital
+  Orientador->>Coordenação: Inscreve-se no Edital
+  Coordenação->Coordenação: Avalia as propostas
+  Coordenação->>Orientador: Divulga os contemplados
+  Orientador->>Aluno: Divulga a bolsa
+  Aluno->>Orientador: Declara interesse
   Orientador->Orientador: Seleciona o bolsista
   Orientador->>Coordenação: Indica o bolsista
   Aluno-->Orientador: Desenvolvem o projeto
-  Orientador->>Coordenação: Notifica o desempenho do bolsista
-  Aluno->>Coordenação: Submissão no ENCITA
+  Orientador->>Coordenação: Avalia a IC
+  Aluno->>Coordenação: Publica no ENCITA
 ```
 
 ## Instruções para alunos
