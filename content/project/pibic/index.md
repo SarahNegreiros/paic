@@ -2,6 +2,10 @@
 title: PIBIC
 summary: Programa Institucional de Bolsas de Iniciação Científica
 date: 2021-08-06T10:32:28-03:00
+image:
+  caption: ""
+  focal_point: "center"
+  preview_only: false
 ---
 
 ## O que é o programa?
@@ -26,9 +30,9 @@ de 27.03 de 2020 do MCTIC.
 
 ```mermaid
 sequenceDiagram
-  participant Aluno
-  participant Orientador
   participant Coordenação
+  participant Orientador
+  participant Aluno
   Coordenação->>Orientador: Divulga o Edital
   Orientador->>Coordenação: Inscreve-se no Edital
   Coordenação->Coordenação: Avalia as propostas
