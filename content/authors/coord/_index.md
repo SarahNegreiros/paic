@@ -7,7 +7,7 @@ social:
   link: 'http://www.comp.ita.br/~verri/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:verri@ita.br'
+  link: 'mailto:caic@ita.br'
 
 highlight_name: false
 
