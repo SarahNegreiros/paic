@@ -8,7 +8,7 @@ O desenvolvimento de Iniciação Científica e Tecnológica com os professores d
 Instituto Tecnológico de Aeronáutica (ITA) é uma excelente porta de entrada para
 o mestrado.
 
-Conheça as [modalidades]({{< relref "/project/" >}}).
+Conheça as [modalidades]({{< relref "/modalidade/" >}}).
 
 ## Sobre o PMG
 

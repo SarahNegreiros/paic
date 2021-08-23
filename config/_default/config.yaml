@@ -1,4 +1,4 @@
-title: PAIC ITA
+title: 'PAIC | ITA'
 baseurl: 'http://www.comp.ita.br/~verri/paic/'
 copyright: '© {year} CAIC ITA'
 
@@ -22,8 +22,8 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/person/:slug/'
-  categories: '/category/:slug/'
+  authors: '/pessoa/:slug/'
+  categories: '/categoria/:slug/'
   # tags: '/tag/:slug/'
   # publication_types: '/publication-type/:slug/'
 disableAliases: true

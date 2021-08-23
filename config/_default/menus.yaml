@@ -1,15 +1,15 @@
 main:
   - name: Notícias
-    url: post
+    url: noticia
     weight: 20
   - name: Modalidades
-    url: project
+    url: modalidade
     weight: 25
   - name: Coordenação
-    url: people
+    url: coordenacao
     weight: 30
   - name: Eventos
-    url: event
+    url: evento
     weight: 40
 #  - name: Publicações
 #    url: publication

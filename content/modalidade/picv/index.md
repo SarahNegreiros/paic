@@ -2,6 +2,7 @@
 title: PICV
 summary: Programa de Iniciação Científica e Tecnológica Voluntária
 date: 2021-08-06T10:33:13-03:00
+draft: true
 ---
 
 ## O que é o programa?

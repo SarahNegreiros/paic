@@ -46,16 +46,15 @@ sequenceDiagram
   Aluno->>Coordenação: Publica no ENCITA
 ```
 
-## Instruções para alunos
+## Mais instruções
 
-## Instruções para orientadores
+Por ora, mais informações podem ser encontradas [aqui](http://www.ita.br/pibic).
 
 ## FAQ
 
 {{< spoiler text="Sou aluno militar ou aluno de primeiro ano (CPOR) do ITA. Posso concorrer a bolsa?" >}}
   Não, são elegíveis apenas alunos com dedicação exclusiva à pesquisa, sem
   vínculo empregatício e que não usufruam de outras bolsas da mesma natureza.
-  No entanto, você pode participar do [PICV]({{< relref "/project/picv" >}}).
 {{< /spoiler >}}
 
 {{< spoiler text="Não sou aluno do ITA. Posso concorrer à bolsa?" >}}
