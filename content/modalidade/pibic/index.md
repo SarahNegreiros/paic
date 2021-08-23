@@ -1,5 +1,6 @@
 ---
 title: PIBIC
+type: project
 summary: Programa Institucional de Bolsas de Iniciação Científica
 date: 2021-08-06T10:32:28-03:00
 image:

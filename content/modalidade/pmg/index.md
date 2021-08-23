@@ -1,5 +1,6 @@
 ---
 title: PMG
+type: project
 summary: Programa Mestrado na Graduação
 date: 2021-08-09T18:22:03-03:00
 ---
