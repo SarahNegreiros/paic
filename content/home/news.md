@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: asc
-  page_type: noticia
+  page_type: post
 design:
   view: 3
   columns: "1"

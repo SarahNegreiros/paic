@@ -1,6 +1,7 @@
 ---
 title: InovaITA - Programa Acadêmico ITA para Inovação na Indústria - PAI3
 date: 2021-08-24T09:43:42-03:00
+type: post
 ---
 
 O ITA – Instituto Tecnológico de Aeronáutica organiza, através da IPR
