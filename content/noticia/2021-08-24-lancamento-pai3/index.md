@@ -2,6 +2,7 @@
 title: Lançamento do Programa Acadêmico ITA para Inovação na Indústria - PAI3
 date: 2021-08-24T09:43:42-03:00
 type: post
+projects: [pai3]
 summary: >
   A Pró-Reitoria de Pesquisa e Relacionamento Institucional do ITA lança novo
   programa de bolsas.
