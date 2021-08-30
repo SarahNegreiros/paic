@@ -1,6 +1,6 @@
 ---
 title: Inscrições abertas para bolsas ITI associados ao MAI/DAI
-date: 2021-08-30T08:00:00-03:00
+date: 2021-08-30T09:00:00-03:00
 type: post
 projects: [iti]
 summary: >
