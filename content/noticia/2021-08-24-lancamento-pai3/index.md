@@ -15,9 +15,9 @@ temática de Inovação, o InovaITA.
 A próxima edição, dia 27 de agosto, às 11h00, apresentará a seguinte
 programação:
 
-- 10h45 – “Esquenta” – Prof.Dr. Pedro Lacava e Sra. Solange Correa;
+- 10h45 – "Esquenta" – Prof.Dr. Pedro Lacava e Sra. Solange Correa;
 - 11h00 – Abertura – Prof. Dr. Anderson Ribeiro Correia – Reitor do ITA;
-- 11h05 – Palestra – “Programa Acadêmico ITA para Inovação na Indústria – PAI3" – Profa.Dra. Maryangela Geimba de Lima e Profa.Dra. Emília Villani;
+- 11h05 – Palestra – "Programa Acadêmico ITA para Inovação na Indústria – PAI3" – Profa.Dra. Maryangela Geimba de Lima e Profa.Dra. Emília Villani;
 - 11h50 – Debates e discussões.
 
 Inscrições pelo [formulário](https://forms.gle/rQoni3jxzMC6MMm27).
