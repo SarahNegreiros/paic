@@ -16,7 +16,7 @@ content:
     publication_type: ""
     tag: ""
   offset: 0
-  order: asc
+  order: desc
   page_type: post
 design:
   view: 3
