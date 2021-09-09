@@ -30,3 +30,27 @@ para alunos de graduação do ITA.  Mais informações sobre o programa
 
 As inscrições são realizadas via [formulário online](https://airtable.com/shrpe2V6HTPq5ae9m).
 Consulte o [edital](/documentos/editais/2021-01.pdf) para mais informações.
+
+## Projetos
+
+As bolsas serão distribuídas para os seguintes projetos em andamento.
+
+Projetos | Vagas | Orientador
+-------- | ----- | ----------
+Análise de Missão e para uma Plataforma Orbital de Microgravidade Recuperável  |  Até 2 vagas  |  Christopher Shneider Cerqueira (chris@ita.br)
+Análise e Previsão de Disponibilidade do Espaço Aéreo Urbano para Operações UAM  |  Até 2 vagas  |  Mayara Condé Rocha Murça (mayara@ita.br)
+Desenvolvimento de metodologias e processo de análise do Life Cycle Inventory de aeronaves de propulsão híbrido-elétrica e sistemas mais elétricos  |  Até 4 vagas  |  Anderson Borille (borille@ita.br)
+Estudo de implementações estratégicas para aeróstato cativo  |  Até 2 vagas  |  Marcos Máximo (mmaximo@ita.br)
+Estudo de Materiais e Processos não Convencionais para Fabricação de Engrenagens  |  Até 2 vagas  |  Ronnie Rego (ronnie@ita.br)
+Identificador de gargalos em processos industriais  |  Até 4 vagas  |  Filipe Verri (verri@ita.br)
+Modelagem da propagação de danos em vasos de pressão bobinados  |  Até 2 vagas  |  Maurício Vicente Donadon (donadon@ita.br)
+Plataformas Inerciais por fusão de dados de arranjo de multisensores (multi sensors data fusion)  |  Até 4 vagas  |  Renato Machado (rmachado@ita.br)
+Previsão e Otimização de Trajetória 4D para o Gerenciamento Colaborativo de Fluxo de Tráfego Aéreo em Ambiente TBO  |  Até 4 vagas  |  Mayara Condé Rocha Murça (mayara@ita.br)
+Rede neural como alternativa para apoiar a certificação de Sistemas autônomos aéreos  |  Até 4 vagas  |  Johnny Marques (johnny@ita.br)
+Sistema inteligente de monitoramento de grandes áreas usando plataformas aéreas e inteligência artificial  |  Até 4 vagas  |  Marcos Máximo (mmaximo@ita.br)
+Tecnologias de girômetros para navegação, guiamento e controle de mísseis táticos (DO)  |  Até 4 vagas  |  João Marcos Salvi Sakamoto (jmss@ita.br)
+Tecnologias de girômetros para navegação, guiamento e controle de mísseis táticos (ME)  |  Até 2 vagas  |  João Marcos Salvi Sakamoto (jmss@ita.br)
+Tecnologias para o Desenvolvimento Sustentável: Monitoramento, prevenção e recuperação de desastres naturais e ambientais; e Preservação Ambiental  |  Até 2 vagas  |   Wilson Cabral Sousa Junior (wilson@ita.br)
+
+Mais informações, consulte o [anexo do Edital](/documentos/editais/2021-01.pdf) ou
+entre em contato com o orientador do projeto.
