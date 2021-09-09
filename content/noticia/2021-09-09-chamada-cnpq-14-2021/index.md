@@ -4,15 +4,8 @@ date: 2021-09-09T15:45:10-03:00
 type: post
 projects: [iti]
 summary: |
-  Inscrições abertas para bolsas de estudos para alunos que estejam cursando
-  a graduação em Ciência da Computação ou áreas correlatas no campo das
-  Tecnologias da Informação e Comunicação (Matemática ou Engenharias), que
-  estejam matriculados na turma do 7º, 8º ou 9º semestre, e cuja pesquisa tenha
-  como foco o tema Inteligência artificial.
-
-  A data limite para submissão das propostas é até dia 14/09/2021
-  e o julgamento ocorrerá no período entre 27/09 a 01/10/2021.
-
+  Inscrições abertas para bolsas de estudos para alunos que estejam cursando a graduação em Ciência da Computação ou áreas correlatas no campo das Tecnologias da Informação e Comunicação (Matemática ou Engenharias), que estejam matriculados na turma do 7º, 8º ou 9º semestre, e cuja pesquisa tenha como foco o tema Inteligência artificial.
+  A data limite para submissão das propostas é até dia 14/09/2021 e o julgamento ocorrerá no período entre 27/09 a 01/10/2021.
   #ita #cnpq #mcti #ensinosuperior #engenharias #inteligenciaartificial
 ---
 
