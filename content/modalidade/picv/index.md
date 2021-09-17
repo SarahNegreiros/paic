@@ -24,7 +24,7 @@ sequenceDiagram
   Orientador->>Coordenação: Informa orientação
   Coordenação->>Orientador: Informa aprovação
   Aluno-->Orientador: Desenvolvem o projeto
-  Aluno->>Coordenação: Publica no ENCITA
+  Aluno->>Coordenação: Participa do ENCITA
   Orientador->>Coordenação: Declara horas
   Coordenação->>Aluno: Emite certificado
 ```
