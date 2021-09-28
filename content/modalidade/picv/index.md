@@ -28,9 +28,24 @@ sequenceDiagram
   Coordenação->>Aluno: Emite certificado
 ```
 
-## Instruções para alunos
+As inscrições são realizadas em fluxo contínuo.
 
-## Instruções para orientadores
+O processo consiste em:
+
+- Orientador preenche o [formulário online](https://airtable.com/shrJ4ZII0eNNZB4n3);
+- A coordenação verifica a documentação e o projeto em reuniões bimestrais;
+- Se estiver tudo em ordem, a coordenação entra em contato com o orientador
+  indicando a aprovação e início das atividades (com possibilidade de contagem
+  retroativa);
+- Aluno desenvolve o projeto com supervisão do orientador (durante qualquer
+  período de tempo);
+- Ao fim do desenvolvimento, o aluno participa do [ENCITA](/evento);
+- O orientador assina uma declaração de horas de trabalho do aluno;
+- O aluno recebe uma declaração da conclusão da IC com número de horas de
+  trabalho.
+
+Mais informações, consulte a [Comunicação Nº 02 ITA/CAIC
+- 2021](/documentos/atas/2021-02.pdf).
 
 ## FAQ
 

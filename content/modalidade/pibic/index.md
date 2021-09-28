@@ -47,9 +47,18 @@ sequenceDiagram
   Aluno->>Coordenação: Publica no ENCITA
 ```
 
-## Mais instruções
+## Informações para bolsistas 2020/2021
 
-Por ora, mais informações podem ser encontradas [aqui](http://www.ita.br/pibic).
+O relatório final deverá seguir o [modelo](/documentos/modelos/relatorio-pibic)
+e ser encaminhado até 14/10/2021 com as devidas assinaturas para caic@ita.br.
+
+Sobre ENCITA, devido às restrições impostas pela pandemia de COVID-19, não há
+prazo definido para envio do artigo.  Bolsistas e orientadores serão contatados
+em breve.
+
+## Informações para bolsistas 2021/2022
+
+Em breve.
 
 ## FAQ
 
