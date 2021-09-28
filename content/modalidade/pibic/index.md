@@ -62,9 +62,8 @@ Em breve.
 
 ## FAQ
 
-{{< spoiler text="Sou aluno militar ou aluno de primeiro ano (CPOR) do ITA. Posso concorrer a bolsa?" >}}
-  Não, são elegíveis apenas alunos com dedicação exclusiva à pesquisa, sem
-  vínculo empregatício e que não usufruam de outras bolsas da mesma natureza.
+{{< spoiler text="Não sou elegível à bolsa, posso fazer IC mesmo assim?" >}}
+  Sim, consulte nosso programa de [Iniciação Científica Voluntária]({{< relref "/modalidade/picv" >}}).
 {{< /spoiler >}}
 
 {{< spoiler text="Não sou aluno do ITA. Posso concorrer à bolsa?" >}}

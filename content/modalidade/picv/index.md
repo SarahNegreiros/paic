@@ -44,8 +44,7 @@ O processo consiste em:
 - O aluno recebe uma declaração da conclusão da IC com número de horas de
   trabalho.
 
-Mais informações, consulte a [Comunicação Nº 02 ITA/CAIC
-- 2021](/documentos/atas/2021-02.pdf).
+Mais informações, consulte a [Comunicação Nº 02 ITA/CAIC 2021](/documentos/atas/2021-02.pdf).
 
 ## FAQ
 
