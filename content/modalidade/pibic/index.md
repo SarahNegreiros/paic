@@ -49,7 +49,7 @@ sequenceDiagram
 
 ## Informações para bolsistas 2020/2021
 
-O relatório final deverá seguir o [modelo](/documentos/modelos/relatorio-pibic)
+O relatório final deverá seguir o [modelo](/documentos/modelos/relatorio-pibic.doc)
 e ser encaminhado até 14/10/2021 com as devidas assinaturas para caic@ita.br.
 
 Sobre ENCITA, devido às restrições impostas pela pandemia de COVID-19, não há
