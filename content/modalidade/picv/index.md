@@ -46,6 +46,10 @@ O processo consiste em:
 
 Mais informações, consulte a [Comunicação Nº 02 ITA/CAIC 2021](/documentos/atas/2021-02.pdf).
 
+## Projetos ativos
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrxpwtveorf0LsBF?backgroundColor=orange&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## FAQ
 
 {{< spoiler text="Sou aluno militar ou aluno de primeiro ano (CPOR) do ITA. Posso participar do programa?" >}}
