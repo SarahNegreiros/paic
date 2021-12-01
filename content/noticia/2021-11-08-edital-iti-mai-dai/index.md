@@ -5,7 +5,7 @@ type: post
 projects: [iti]
 summary: >
   Abertas as inscrições para a seleção de bolsistas de Iniciação Tecnógica
-  Industrial para alunos do ITA.
+  Industrial para alunos do ITA até 28 de novembro de 2021.
 ---
 
 Estão abertas as inscrições para bolsas de Iniciação Tecnológica Industrial
@@ -14,8 +14,7 @@ para alunos de graduação do ITA.  Mais informações sobre o programa
 
 ## Requisitos do aluno
 
-1. Estar regularmente matriculado nesta instituição e não estar cursando
-   o último ano do Profissional no ano de 2021;
+1. Estar regularmente matriculado nesta instituição;
 1. Ter seu currículo cadastrado e atualizado na
    [Plataforma Lattes](http://lattes.cnpq.br/), o qual comprovará a experiência
    profissional do candidato;
