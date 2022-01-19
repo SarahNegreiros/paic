@@ -1,10 +1,10 @@
 ---
-title: ENCITA 2021
+title: ENCITA 2022
 type: event
 
-event: XXVI Encontro de Iniciação Cientifica do Instituto Tecnológico de Aeronáutica
+event: XXVII Encontro de Iniciação Cientifica do Instituto Tecnológico de Aeronáutica
 
-location: Instituto Tecnológico de Aeronáutica (virtual)
+location: Instituto Tecnológico de Aeronáutica
 address:
   street: Praça Marechal Eduardo Gomes, 50
   city: São José dos Campos
@@ -12,24 +12,24 @@ address:
   postcode: 12228900
   country: Brasil
 
-summary: XXVI Encontro de Iniciação Científica do ITA.
+summary: XXVII Encontro de Iniciação Científica do ITA.
 
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-08T13:00:00Z"
-end_date: "2021-04-09T13:00:00Z"
+date: "2022-05-26"
+end_date: "2022-05-27"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -55,4 +55,13 @@ slides:
 projects:
 ---
 
-Em breve, os anais do evento serão publicados aqui.
+
+Informações gerais:
+
+1. Todos os bolsistas (PIBIC 2020/2021, PIBIC 2021/2022 e ITI) deverão ter resumos aceitos.
+1. O resumo deverá ter 2 páginas em formato ABNT.
+1. Todos os resumos serão apresentados em formato de pôster presencialmente.
+    1. Casos excepcionais poderão ser considerados pela coordenação.
+1. O prazo para submissão dos resumos é 21 de março de 2022.
+
+Em breve, mais instruções serão divulgadas.
