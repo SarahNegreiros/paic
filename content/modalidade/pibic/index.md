@@ -52,13 +52,18 @@ sequenceDiagram
 O relatório final deverá seguir o [modelo](/documentos/modelos/relatorio-pibic.doc)
 e ser encaminhado até 14/10/2021 com as devidas assinaturas para caic@ita.br.
 
-Sobre ENCITA, devido às restrições impostas pela pandemia de COVID-19, não há
-prazo definido para envio do artigo.  Bolsistas e orientadores serão contatados
-em breve.
+Todos os bolsistas deverão participar do [ENCITA 2022]({{< relref "/evento/encita-2022" >}}).
 
 ## Informações para bolsistas 2021/2022
 
-Em breve.
+- Não será necessário a escrita de relatório parcial
+    - Orientadores deverão encaminhar, até 01/03/2022, a [ficha de acompanhamento](/documentos/modelos/acompanhamento.docx) para caic@ita.br.
+- Todos os bolsistas deverão participar do [ENCITA 2022]({{< relref "/evento/encita-2022" >}}).
+- O [relatório final](/documentos/modelos/relatorio-pibic.doc), com as devidas assinaturas, deverá ser encaminhado para caic@ita.br até 01/10/2022.
+
+## Troca de bolsistas (para orientadores)
+
+Preencher o [formulário online](https://forms.gle/7hMicFMMCuw47LZA6) e, após preenchido, solicitar a troca para caic@ita.br.
 
 ## FAQ
 
