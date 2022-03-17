@@ -57,7 +57,7 @@ Todos os bolsistas deverão participar do [ENCITA 2022]({{< relref "/evento/enci
 ## Informações para bolsistas 2021/2022
 
 - Não será necessário a escrita de relatório parcial
-    - Orientadores deverão encaminhar, até 01/03/2022, a [ficha de acompanhamento](/documentos/modelos/acompanhamento.docx) para caic@ita.br.
+    - Orientadores deverão encaminhar, até 03/03/2022, a [ficha de acompanhamento](/documentos/modelos/acompanhamento.docx) para caic@ita.br.
 - Todos os bolsistas deverão participar do [ENCITA 2022]({{< relref "/evento/encita-2022" >}}).
 - O [relatório final](/documentos/modelos/relatorio-pibic.doc), com as devidas assinaturas, deverá ser encaminhado para caic@ita.br até 01/10/2022.
 

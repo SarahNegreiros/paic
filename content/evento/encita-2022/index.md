@@ -55,8 +55,13 @@ slides:
 projects:
 ---
 
+O evento ocorrerá presencialmente, no Instituto Tecnológico de Aeronáutica, nos
+dias 26 e 27 de maio.
+
+# Submissão dos artigos
+
 {{% callout warning %}}
-Em breve, divulgaremos aqui o sistema para submissão dos artigos.
+Os artigos deverão ser submetidos via Forms [aqui](https://forms.gle/zUmQUFkJPYCKG3Lw9).
 {{% /callout %}}
 
 Informações gerais:
@@ -64,8 +69,16 @@ Informações gerais:
 1. Todos os bolsistas (PIBIC 2020/2021, PIBIC 2021/2022 e ITI) deverão ter artigos aceitos.
 1. O artigo deverá ter 2 páginas em formato ABNT conforme [modelo](/documentos/modelos/artigo-encita-modelo.zip).
     - Os artigos serão recebidos em formato PDF e podem ser escritos em LaTeX (recomendado) ou Word.
+1. O artigo pode ser escrito em português ou inglês.
 1. Todos os artigos serão apresentados em formato de pôster presencialmente.
     - Casos excepcionais poderão ser considerados pela coordenação.
 1. O prazo para submissão dos artigos é 21 de março de 2022.
 
 Em breve, mais instruções serão divulgadas nesta página.
+
+# Comissão organizadora
+
+- Prof. Dr. Willer Gomes dos Santos, IEA/ITA
+- Com. Márcio Costa, CEI/ITA
+- Paulo Victor Freitas Lopes, pós-graduando PPG/PO
+- R. Douglas G. de Aquino, pós-graduando PPG/PO
