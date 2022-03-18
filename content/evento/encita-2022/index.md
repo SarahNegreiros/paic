@@ -72,7 +72,7 @@ Informações gerais:
 1. O artigo pode ser escrito em português ou inglês.
 1. Todos os artigos serão apresentados em formato de pôster presencialmente.
     - Casos excepcionais poderão ser considerados pela coordenação.
-1. O prazo para submissão dos artigos é 21 de março de 2022.
+1. O prazo para submissão dos artigos é 28 de março de 2022.
 
 Em breve, mais instruções serão divulgadas nesta página.
 
