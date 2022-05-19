@@ -25,6 +25,7 @@ sequenceDiagram
   Aluno-->Orientador: Desenvolvem o projeto
   Aluno->>Coordenação: Participa do ENCITA
   Orientador->>Coordenação: Declara horas
+  Aluno->>Coordenação: Solicita certificado
   Coordenação->>Aluno: Emite certificado
 ```
 
@@ -41,8 +42,8 @@ O processo consiste em:
   período de tempo);
 - Ao fim do desenvolvimento, o aluno participa do [ENCITA](/evento);
 - O orientador assina uma declaração de horas de trabalho do aluno;
-- O aluno recebe uma declaração da conclusão da IC com número de horas de
-  trabalho.
+- O aluno solicita emissão da declaração da conclusão da IC com número de horas de
+  trabalho para a coordenação.
 
 Mais informações, consulte a [Comunicação Nº 02 ITA/CAIC 2021](/documentos/atas/2021-02.pdf).
 

@@ -20,7 +20,7 @@ inscrição está disponível através deste
 [link](https://paic.ita.br/evento/encita-2022/). Todas as novas informações
 serão divulgadas através deste mesmo endereço. É importante salientar que os
 bolsistas PIBIC 2020/2021, PIBIC 2021/2022 e ITI deverão enviar seus artigos
-até o dia 25/03/2022.
+até o dia 28/03/2022.
 
 Nessa nova edição do evento, a submissão dos trabalhos será limitada a duas
 páginas. Estas duas páginas deverão apresentar uma visão geral do trabalho,

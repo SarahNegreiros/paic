@@ -58,10 +58,19 @@ projects:
 O evento ocorrerá presencialmente, no Instituto Tecnológico de Aeronáutica, nos
 dias 26 e 27 de maio.
 
+
+# Inscrição como ouvinte
+
+{{% callout warning %}}
+Para realizar a sua inscrição como ouvinte acesse o [formulário aqui](https://docs.google.com/forms/d/e/1FAIpQLSd67TdsTGh0BZP1-F2_4wR_KRVV_DnqQ4sk2YaXhJqqcIom1Q/viewform).
+{{% /callout %}}
+
+**Importante**: alunos que enviaram seus artigos também devem se inscrever no formulário acima para participação no evento.
+
 # Submissão dos artigos
 
 {{% callout warning %}}
-Os artigos deverão ser submetidos via Forms [aqui](https://forms.gle/zUmQUFkJPYCKG3Lw9).
+Encerrada!
 {{% /callout %}}
 
 Informações gerais:
@@ -78,7 +87,10 @@ Em breve, mais instruções serão divulgadas nesta página.
 
 # Comissão organizadora
 
-- Prof. Dr. Willer Gomes dos Santos, IEA/ITA
+- *Coordenador Geral*: Prof. Dr. Willer Gomes dos Santos, IEA/ITA
 - Com. Márcio Costa, CEI/ITA
-- Paulo Victor Freitas Lopes, pós-graduando PPG/PO
-- R. Douglas G. de Aquino, pós-graduando PPG/PO
+- Emerson Okano, pós-graduando PPG/PO, ITA/UNIFESP
+- Leonardo Silveira, pós-graduando PG/EEC-I, ITA
+- Paulo Victor Freitas Lopes, pós-graduando PPG/PO, ITA/UNIFESP
+- R. Douglas G. de Aquino, pós-graduando PPG/PO, ITA/UNIFESP
+- Thais Cardoso Franco, pós-graduanda PG/EAM-1, ITA
