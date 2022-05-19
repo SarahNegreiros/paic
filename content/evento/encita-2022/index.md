@@ -87,7 +87,7 @@ Em breve, mais instruções serão divulgadas nesta página.
 
 # Comissão organizadora
 
-- *Coordenador Geral*: Prof. Dr. Willer Gomes dos Santos, IEA/ITA
+- *Coordenador Geral*: Prof. Dr. Willer Gomes dos Santos, IEA/ITA, willer@ita.br
 - Com. Márcio Costa, CEI/ITA
 - Emerson Okano, pós-graduando PPG/PO, ITA/UNIFESP
 - Leonardo Silveira, pós-graduando PG/EEC-I, ITA
