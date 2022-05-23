@@ -58,6 +58,8 @@ projects:
 O evento ocorrerá presencialmente, no Instituto Tecnológico de Aeronáutica, nos
 dias 26 e 27 de maio.
 
+Veja o [cronograma completo](/documentos/encita/cronograma-2022.pdf).
+
 
 # Inscrição como ouvinte
 
@@ -84,6 +86,11 @@ Informações gerais:
 1. O prazo para submissão dos artigos é 28 de março de 2022.
 
 Em breve, mais instruções serão divulgadas nesta página.
+
+# Modelos
+
+- [Modelo de artigo](/documentos/modelos/artigo-encita-modelo.zip)
+- [Modelo de pôster](/documentos/modelos/poster-encita-modelo.pptx)
 
 # Comissão organizadora
 
