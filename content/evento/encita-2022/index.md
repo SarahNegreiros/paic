@@ -58,7 +58,7 @@ projects:
 O evento ocorrerá presencialmente, no Instituto Tecnológico de Aeronáutica, nos
 dias 26 e 27 de maio.
 
-Veja o [cronograma completo](/documentos/encita/cronograma-2022.pdf).
+**Cronograma completo**: clique [aqui](/documentos/encita/cronograma-2022.pdf).
 
 
 # Inscrição como ouvinte
