@@ -8,6 +8,15 @@ summary: >
   professores do ITA até 15 de janeiro de 2023.
 ---
 
+
+{{% callout warning %}}
+Resultados preliminares disponíveis [aqui](/documentos/editais/PIBIC-2022b-Resultados.pdf).
+{{% /callout %}}
+
+{{% callout warning %}}
+Inscrições encerradas.
+{{% /callout %}}
+
 Estão abertas as inscrições de projetos PIBIC para professores e colaboradores
 do ITA para a concessão de bolsas de até 6 meses.  Mais informações sobre
 o programa [aqui]({{< relref "/modalidade/pibic" >}}).

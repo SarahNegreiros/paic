@@ -56,11 +56,10 @@ sequenceDiagram
 
 ## Informações sobre bolsas 2022/2023
 
-{{% callout warning %}}
-Inscrições estendidas até 10 de agosto.
-{{% /callout %}}
+Consultar editais [aqui](/documentos/editais/PIBIC-2022.pdf)
+e [aqui](/documentos/editais/PIBIC-2022b.pdf).
 
-Consultar [edital](/documentos/editais/PIBIC-2022.pdf).
+Em breve, mais informações.
 
 ## FAQ
 
