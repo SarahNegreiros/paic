@@ -6,6 +6,7 @@ title: Resoluções, Normas e Atas
 ---
 
 - 2022
+    - [Ata - Reunião 05/2022 de 20 de outubro de 2022](/documentos/atas/2022-05.pdf)
     - [Ata - Reunião 04/2022 de 25 de agosto de 2022](/documentos/atas/2022-04.pdf)
     - [Ata - Reunião Extraordinária 01/2022 de 08 de agosto de 2022](/documentos/atas/2022-01e.pdf)
     - [Ata - Reunião 03/2022 de 22 de abril de 2022](/documentos/atas/2022-03.pdf)
