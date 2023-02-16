@@ -1,14 +1,14 @@
 ---
-title: Willer G. Santos
+title: Elton F. Sbruzzi
 role: Divulgação
 
 social:
-- icon: globe
-  icon_pack: fas
-  link: 'http://www.aer.ita.br/conteudo/willer'
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/0026358605322965
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:willer@ita.br'
+  link: 'mailto:elton@ita.br'
 
 highlight_name: false
 
