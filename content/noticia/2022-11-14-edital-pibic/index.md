@@ -10,7 +10,7 @@ summary: >
 
 
 {{% callout warning %}}
-Resultados preliminares disponíveis [aqui](/documentos/editais/PIBIC-2022b-Resultados.pdf).
+Resultados finais disponíveis [aqui](/documentos/editais/PIBIC-2022b-Resultados-Finais.pdf).
 {{% /callout %}}
 
 {{% callout warning %}}
