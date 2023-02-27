@@ -38,8 +38,7 @@ O processo consiste em:
 - Se estiver tudo em ordem, a coordenação entra em contato com o orientador
   indicando a aprovação e início das atividades (com possibilidade de contagem
   retroativa);
-- Aluno desenvolve o projeto com supervisão do orientador (durante qualquer
-  período de tempo);
+- Aluno desenvolve o projeto com supervisão do orientador (entre 1 e 12 meses);
 - Ao fim do desenvolvimento, o aluno participa do [ENCITA](/evento);
 - O orientador assina uma declaração de horas de trabalho do aluno;
 - O aluno solicita emissão da declaração da conclusão da IC com número de horas de
@@ -61,4 +60,8 @@ Mais informações, consulte a [Comunicação Nº 02 ITA/CAIC 2021](/documentos/
 
 {{< spoiler text="Não sou aluno do ITA. Posso participar do programa?" >}}
   Sim, desde que esteja regularmente matriculado na graduação em qualquer outra instituição superior de ensino.
+{{< /spoiler >}}
+
+{{< spoiler text="Qual a duração de um projeto PICV?" >}}
+  Os projetos do PICV deverão ter duração de 1 a 12 meses.
 {{< /spoiler >}}
