@@ -33,6 +33,7 @@ As inscrições são realizadas em fluxo contínuo.
 
 O processo consiste em:
 
+- Orientador e aluno desenvolvem proposta de projeto conforme o [modelo](/documentos/modelos/picv.docx);
 - Orientador preenche o [formulário online](https://airtable.com/shrJ4ZII0eNNZB4n3);
 - A coordenação verifica a documentação e o projeto em reuniões bimestrais;
 - Se estiver tudo em ordem, a coordenação entra em contato com o orientador

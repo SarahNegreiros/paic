@@ -59,7 +59,7 @@ e [aqui](/documentos/editais/PIBIC-2022b.pdf).
       caic@ita.br.
 - Todos os bolsistas deverão participar do ENCITA 2023, com previsão de ocorrer
   em **setembro de 2023**.
-- O relatório final [(modelo aqui)](/documentos/modelos/relatorio-pibic.doc),
+- O relatório final [(modelo aqui)](/documentos/modelos/relatorio-pibic.docx),
   com as devidas assinaturas, deverá ser encaminhado para caic@ita.br até
   01/10/2023.
 
@@ -68,7 +68,7 @@ e [aqui](/documentos/editais/PIBIC-2022b.pdf).
 - Não será necessário a escrita de relatório parcial.
     - Orientadores deverão encaminhar, até 03/03/2022, a [ficha de acompanhamento](/documentos/modelos/acompanhamento.docx) para caic@ita.br.
 - Todos os bolsistas deverão participar do [ENCITA 2022]({{< relref "/evento/encita-2022" >}}).
-- O [relatório final](/documentos/modelos/relatorio-pibic.doc), com as devidas assinaturas, deverá ser encaminhado para caic@ita.br até 01/10/2022.
+- O [relatório final](/documentos/modelos/relatorio-pibic.docx), com as devidas assinaturas, deverá ser encaminhado para caic@ita.br até 01/10/2022.
 
 ## FAQ
 
