@@ -54,7 +54,7 @@ Consultar editais [aqui](/documentos/editais/PIBIC-2022.pdf)
 e [aqui](/documentos/editais/PIBIC-2022b.pdf).
 
 - Não será necessário a escrita de relatório parcial.
-    - Orientadores deverão encaminhar, até 01/04/2022, a [ficha de
+    - Orientadores deverão encaminhar, até 15/04/2022, a [ficha de
       acompanhamento](/documentos/modelos/acompanhamento.docx) para
       caic@ita.br.
 - Todos os bolsistas deverão participar do ENCITA 2023, com previsão de ocorrer
