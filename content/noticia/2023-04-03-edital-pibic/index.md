@@ -18,7 +18,7 @@ do ITA.  Mais informações sobre o programa [aqui]({{< relref
 - Recebimento de propostas: **até 05 de maio de 2023**
 - Análise e julgamento: *até 16 de junho de 2023*
 - Divulgação dos resultados: *19 de junho de 2023*
-- Indicação dos bolsistas: **até 01 de agosto**
+- Indicação dos bolsistas: **até 01 de agosto** de 2023
 
 ## Requisitos do proponente
 
