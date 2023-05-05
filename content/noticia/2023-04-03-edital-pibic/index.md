@@ -8,6 +8,10 @@ summary: >
   professores do ITA até 05 de maio de 2023.
 ---
 
+{{% callout warning %}}
+Prazo de inscrições estendido até 15 de maio.
+{{% /callout %}}
+
 Estão abertas as inscrições de projetos PIBIC para professores e colaboradores
 do ITA.  Mais informações sobre o programa [aqui]({{< relref
 "/modalidade/pibic" >}}).
@@ -15,10 +19,10 @@ do ITA.  Mais informações sobre o programa [aqui]({{< relref
 ## Calendário
 
 - Lançamento do Edital: *03 de abril de 2023*
-- Recebimento de propostas: **até 05 de maio de 2023**
+- Recebimento de propostas: ~~até 05 de maio~~ **até 15 de maio de 2023**
 - Análise e julgamento: *até 16 de junho de 2023*
 - Divulgação dos resultados: *19 de junho de 2023*
-- Indicação dos bolsistas: **até 01 de agosto** de 2023
+- Indicação dos bolsistas: **até 01 de agosto de 2023**
 
 ## Requisitos do proponente
 
