@@ -55,33 +55,40 @@ slides:
 projects:
 ---
 
-O evento *está previsto* para ocorrer presencialmente, no Instituto Tecnológico
-de Aeronáutica, no dia 12 de setembro de 2023.
+O evento ocorrerá presencialmente, no Instituto Tecnológico
+de Aeronáutica, no dia 18 de setembro de 2023.
 
 **Cronograma completo em breve.**
 
+Prazos importantes:
+
+- Data máxima de submissão dos artigos: **04 de agosto de 2023**
+- Data máxima para inscrição no evento: 01 de setembro de 2023
 
 # Inscrição como ouvinte
 
 {{% callout warning %}}
-Em breve.
+Formulário de submissão em breve.
 {{% /callout %}}
 
 # Submissão dos artigos
 
 {{% callout warning %}}
-Em breve, instruções de submissão.
+Formulário de submissão em breve.
 {{% /callout %}}
 
 Informações gerais:
 
 1. Todos os bolsistas (PIBIC 2022/2023 e ITI) deverão ter artigos aceitos.
+    - Caso o bolsista não participe dessa edição, este deverá participar
+      **obrigatoriamente** na edição seguinte (2024) para receber a declaração
+      de conclusão.
 1. O artigo deverá ter 2 páginas em formato ABNT conforme [modelo](/documentos/modelos/artigo-encita-modelo.zip).
     - Os artigos serão recebidos em formato PDF e podem ser escritos em LaTeX (recomendado) ou Word.
 1. O artigo pode ser escrito em português ou inglês.
 1. Todos os artigos serão apresentados em formato de pôster presencialmente.
     - Casos excepcionais poderão ser considerados pela coordenação.
-1. O prazo para submissão dos artigos é **16 de junho de 2023**.
+1. O prazo para submissão dos artigos é **04 de agosto de 2023**.
 
 Em breve, mais instruções serão divulgadas nesta página.
 
