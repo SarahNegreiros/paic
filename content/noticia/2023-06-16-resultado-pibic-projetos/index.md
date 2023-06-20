@@ -1,6 +1,6 @@
 ---
 title: Resultados do Edital PIBIC 2023-2024
-date: 2023-06-16
+date: 2023-06-15
 type: post
 projects: [pibic]
 summary: >
