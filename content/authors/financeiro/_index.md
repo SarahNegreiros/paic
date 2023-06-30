@@ -1,14 +1,11 @@
 ---
-title: João H. Lopes
+title: Samuel A. Wainer
 role: Financeiro
 
 social:
-- icon: globe
-  icon_pack: fas
-  link: 'https://scholar.google.com.br/citations?user=YhgTqEcAAAAJ&hl=en'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lopes@ita.br'
+  link: 'mailto:wainer@ita.br'
 
 highlight_name: false
 

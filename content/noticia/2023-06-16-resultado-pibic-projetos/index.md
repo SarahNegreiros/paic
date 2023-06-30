@@ -7,15 +7,11 @@ summary: >
   Confira os resultados do Edital de seleção de projetos PIBIC.
 ---
 
-{{% callout warning %}}
-Resultados finais (classificação) serão divulgados nesta notícia após o prazo
-de recursos.
-{{% /callout %}}
-
 Torna-se público o resultado das avaliações dos projetos PIBIC 2023/2024.  Mais
 informações sobre o programa [aqui]({{< relref "/modalidade/pibic" >}}).
 
 - [Avaliação dos projetos](/documentos/editais/PIBIC-2023-Avaliacao.pdf)
+- [Resultados finais](/documentos/editais/PIBIC-2023-Resultado.pdf)
 
 ## Calendário
 

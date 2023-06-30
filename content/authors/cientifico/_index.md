@@ -1,14 +1,11 @@
 ---
-title: Lourenço A. Pereira Jr
+title: Brutus A. F. Pimentel
 role: Científico
 
 social:
-- icon: globe
-  icon_pack: fas
-  link: 'http://www.comp.ita.br/~ljr/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ljr@ita.br'
+  link: 'mailto:brutus@ita.br'
 
 highlight_name: false
 
