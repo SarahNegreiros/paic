@@ -18,8 +18,8 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-12"
-end_date: "2023-09-12"
+date: "2023-09-18"
+end_date: "2023-09-18"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -56,13 +56,13 @@ projects:
 ---
 
 O evento ocorrerá presencialmente, no Instituto Tecnológico
-de Aeronáutica, no dia 18 de setembro de 2023.
+de Aeronáutica, no dia **18 de setembro de 2023**.
 
 **Cronograma completo em breve.**
 
 Prazos importantes:
 
-- Data máxima de submissão dos artigos: **04 de agosto de 2023**
+- Data máxima de submissão dos artigos: ~~04~~ **14 de agosto de 2023**
 - Data máxima para inscrição no evento: 01 de setembro de 2023
 
 # Inscrição como ouvinte
@@ -101,3 +101,5 @@ Em breve, mais instruções serão divulgadas nesta página.
 
 - *Coordenador Geral*: Prof. Dr. Elton Felipe Sbruzzi <elton@ita.br>
 - Prof. Dr. Filipe Alves Neto Verri
+- Prof. Dr. Samuel A. Wainer
+- Prof. Dr. Brutus A. F. Pimentel
