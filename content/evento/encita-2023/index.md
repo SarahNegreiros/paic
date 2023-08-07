@@ -67,15 +67,15 @@ Prazos importantes:
 
 # Inscrição como ouvinte
 
+**Alunos que submeteram artigos, já estão inscritos automaticamente.**
+
 {{% callout warning %}}
 Formulário de submissão em breve.
 {{% /callout %}}
 
 # Submissão dos artigos
 
-{{% callout warning %}}
-Formulário de submissão em breve.
-{{% /callout %}}
+Para submissão do artigo, utilize o formulário [aqui](https://forms.gle/aex71iD7Y8KrhnKRA).
 
 Informações gerais:
 
@@ -88,7 +88,7 @@ Informações gerais:
 1. O artigo pode ser escrito em português ou inglês.
 1. Todos os artigos serão apresentados em formato de pôster presencialmente.
     - Casos excepcionais poderão ser considerados pela coordenação.
-1. O prazo para submissão dos artigos é **04 de agosto de 2023**.
+1. O prazo para submissão dos artigos é **14 de agosto de 2023**.
 
 Em breve, mais instruções serão divulgadas nesta página.
 
