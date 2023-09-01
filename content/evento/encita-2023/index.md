@@ -58,7 +58,7 @@ projects:
 O evento ocorrerá presencialmente, no Instituto Tecnológico
 de Aeronáutica, no dia **18 de setembro de 2023**.
 
-**Cronograma completo em breve.**
+**Cronograma preliminar**: clique [aqui](/documentos/encita/cronograma-2023.pdf).
 
 Prazos importantes:
 
@@ -70,7 +70,7 @@ Prazos importantes:
 **Alunos que submeteram artigos, já estão inscritos automaticamente.**
 
 {{% callout warning %}}
-Formulário de submissão em breve.
+Formulário de inscrição em breve.
 {{% /callout %}}
 
 # Submissão dos artigos
@@ -99,7 +99,15 @@ Em breve, mais instruções serão divulgadas nesta página.
 
 # Comissão organizadora
 
-- *Coordenador Geral*: Prof. Dr. Elton Felipe Sbruzzi <elton@ita.br>
-- Prof. Dr. Filipe Alves Neto Verri
+- *Coordenador Geral*: Prof. Dr. Filipe Alves Neto Verri
 - Prof. Dr. Samuel A. Wainer
 - Prof. Dr. Brutus A. F. Pimentel
+- Prof. Dr. Elton Felipe Sbruzzi
+- Ana Paula Rodrigues dos Santos, pós-graduanda CTE-P, ITA
+- Caio Marcos Chaves Viana, pós-graduando PG/EEC-I, ITA
+- Carla Cursino, pós-graduando EEC/I, ITA
+- Caroline Cristine Duarte da Silva, Doutorado EAM-1, ITA
+- César Augusto Borges da Silva Reis, doutorando PPG/EAM, ITA
+- Daniel Garcia Ribeiro, pós-graduando PPG/EAM, ITA
+- Gabriel F. S. Nunes, doutorando PG/CTE-S, ITA/IEAv
+- Maurício Sá Gontijo, pós-graduando PG/EAM-2, ITA
