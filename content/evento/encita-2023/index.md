@@ -69,9 +69,9 @@ Prazos importantes:
 
 **Alunos que submeteram artigos, já estão inscritos automaticamente.**
 
-{{% callout warning %}}
-Formulário de inscrição em breve.
-{{% /callout %}}
+Para liberação na portaria do DCTA, visitantes externos devem encaminhar nome
+completo, CPF e instituição de origem para caic@ita.br com assunto "[ENCITA]
+Inscrição ouvinte" até **15 de setembro**.
 
 # Submissão dos artigos
 
@@ -110,4 +110,6 @@ Em breve, mais instruções serão divulgadas nesta página.
 - César Augusto Borges da Silva Reis, doutorando PPG/EAM, ITA
 - Daniel Garcia Ribeiro, pós-graduando PPG/EAM, ITA
 - Gabriel F. S. Nunes, doutorando PG/CTE-S, ITA/IEAv
+- Lincoln Burckhart Santos Silva, Pós-Graduando PG/EAM-3, ITA
 - Maurício Sá Gontijo, pós-graduando PG/EAM-2, ITA
+- Odair Oliveira de Sá, Doutorando PG/EEC-I, ITA
