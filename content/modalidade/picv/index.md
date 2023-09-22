@@ -41,7 +41,7 @@ O processo consiste em:
   retroativa);
 - Aluno desenvolve o projeto com supervisão do orientador (entre 1 e 12 meses);
 - Ao fim do desenvolvimento, o aluno participa do [ENCITA](/evento);
-- O orientador assina uma declaração de horas de trabalho do aluno;
+- O orientador assina uma declaração de horas (conforme [modelo](/documentos/modelos/declaracao-horas-picv.docx)) de trabalho do aluno;
 - O aluno solicita emissão da declaração da conclusão da IC com número de horas de
   trabalho para a coordenação.
 
