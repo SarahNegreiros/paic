@@ -88,6 +88,8 @@ Informações gerais:
 1. O artigo pode ser escrito em português ou inglês.
 1. Todos os artigos serão apresentados em formato de pôster presencialmente.
     - Casos excepcionais poderão ser considerados pela coordenação.
+    - É responsabilidade do participante imprimir o pôster.
+    - O tamanho sugerido é A0 ou 120cm x 90cm em lona com cordão.
 1. O prazo para submissão dos artigos é **14 de agosto de 2023**.
 
 Em breve, mais instruções serão divulgadas nesta página.
@@ -110,6 +112,7 @@ Em breve, mais instruções serão divulgadas nesta página.
 - César Augusto Borges da Silva Reis, doutorando PPG/EAM, ITA
 - Daniel Garcia Ribeiro, pós-graduando PPG/EAM, ITA
 - Gabriel F. S. Nunes, doutorando PG/CTE-S, ITA/IEAv
+- Gabriela Colares Ali Ganem, PG/EAM-3, ITA
 - Lincoln Burckhart Santos Silva, Pós-Graduando PG/EAM-3, ITA
 - Maurício Sá Gontijo, pós-graduando PG/EAM-2, ITA
 - Odair Oliveira de Sá, Doutorando PG/EEC-I, ITA
