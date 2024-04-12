@@ -55,6 +55,15 @@ slides:
 projects:
 ---
 
+{{% callout warning %}}
+Anais disponíveis abaixo.
+{{% /callout %}}
+
+Todos os artigos são licenciados sob a licença
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appmxjONAO3KUd31s/shrtB6AKwSqoT3bUY?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 O evento ocorrerá presencialmente, no Instituto Tecnológico
 de Aeronáutica, no dia **18 de setembro de 2023**.
 
