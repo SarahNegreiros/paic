@@ -1,14 +1,14 @@
 ---
-title: Elton F. Sbruzzi
+title: Filipe A. N. Verri
 role: Divulgação
 
 social:
-- icon: lattes
-  icon_pack: ai
-  link: http://lattes.cnpq.br/0026358605322965
+- icon: globe
+  icon_pack: fas
+  link: 'http://www.comp.ita.br/~verri/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:elton@ita.br'
+  link: 'mailto:verri@ita.br'
 
 highlight_name: false
 

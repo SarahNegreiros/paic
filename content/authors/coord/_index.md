@@ -1,10 +1,7 @@
 ---
-title: Filipe A. N. Verri
+title: Gabriela W. Gabriel
 
 social:
-- icon: globe
-  icon_pack: fas
-  link: 'http://www.comp.ita.br/~verri/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:caic@ita.br'
