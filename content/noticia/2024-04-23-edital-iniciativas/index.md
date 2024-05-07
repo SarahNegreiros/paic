@@ -2,7 +2,7 @@
 title: Chamada para propostas de participação de iniciativas do ITA em competicões
 date: 2024-04-23
 type: post
-projects: [pibic]
+projects: []
 summary: >
   Abertas as inscrições de propostas para a participação das iniciativas técnicas, ligadas às engenharias, realizadas por alunos do ITA em competições nacionais e internacionais
 ---
