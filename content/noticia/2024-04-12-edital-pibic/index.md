@@ -21,7 +21,7 @@ do ITA.  Mais informações sobre o programa [aqui]({{< relref
 ## Calendário
 
 - Lançamento do Edital: *12 de abril de 2024*
-- Recebimento de propostas: **até 17 de maio de 2024**
+- Recebimento de propostas: ~~até 17~~ **até 24 de maio de 2024**
 - Análise e julgamento: *até 28 de junho de 2024*
 - Divulgação dos resultados: *01 de julho de 2024*
 - Indicação dos bolsistas: **até 01 de agosto de 2024**
