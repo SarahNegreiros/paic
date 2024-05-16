@@ -20,7 +20,7 @@ e Internacionais, referente ao [EDITAL Nº 02 ITA/CAIC–2024](/documentos/edita
 | 3º | ITARocketDesign | - |
 | 4º | AeroDesingITA | - |
 | 5º | ITACube | - |
-| 6º | eVTOLITA | - |
+| 5º | eVTOLITA | - |
 
 ## Categoria competição internacional
 
