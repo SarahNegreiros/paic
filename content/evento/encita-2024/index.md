@@ -56,22 +56,23 @@ projects:
 ---
 
 {{% callout warning %}}
-Em breve, mais informações sobre o evento.
+Aberta a Submissão de artigos para o evento.
 {{% /callout %}}
 
 O evento ocorrerá presencialmente, no Instituto Tecnológico
 de Aeronáutica, no dia **16 de setembro de 2024**.
 
-**Cronograma em breve**
+**Cronograma do evento em breve**
 
-Prazos importantes:
+Datas importantes:
 
-- Data máxima de submissão dos artigos: **em breve**
-- Data máxima para inscrição no evento: **em breve**
+- Abertura da submissão de artigos: 10/07/2024
+- Data máxima de submissão dos artigos: 09/08/2024
+- Data máxima para inscrição no evento: 01/09/2024
 
 # Submissão dos artigos
 
-<!-- Para submissão do artigo, utilize o formulário [aqui](https://forms.gle/aex71iD7Y8KrhnKRA). -->
+Para submissão do artigo, utilize o formulário [aqui](https://airtable.com/apptdbpfnd4qobPYk/pag4iQiFrqj8obVKL)
 
 Informações gerais:
 
