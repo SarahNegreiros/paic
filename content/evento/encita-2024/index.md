@@ -72,7 +72,7 @@ Datas importantes:
 
 # Submissão dos artigos
 
-Para submissão do artigo, utilize o formulário [aqui](https://airtable.com/apptdbpfnd4qobPYk/pag4iQiFrqj8obVKL)
+Para submissão do artigo, utilize o formulário [aqui](https://airtable.com/apptdbpfnd4qobPYk/pag4iQiFrqj8obVKL/form)
 
 Informações gerais:
 
