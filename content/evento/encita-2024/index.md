@@ -67,10 +67,10 @@ de Aeronáutica, no dia **16 de setembro de 2024**.
 Datas importantes:
 
 - Abertura da submissão de artigos: 10/07/2024
-- Data máxima de submissão dos artigos: 09/08/2024~~09/08/2024~~ **16/08/2024**
+- Data máxima de submissão dos artigos: ~~09/08/2024~~ **16/08/2024**
 - Resultado dos artigos aceitos: 09/09/2024
 - Data máxima para inscrição no evento: 10/09/2024
-- Data máxima para submissão do artigo corrigido para publicação nos anais do evento: 30/09/2024
+- Data máxima para submissão do artigo corrigido (para publicação nos anais do evento): 30/09/2024
 
 # Submissão dos artigos
 
