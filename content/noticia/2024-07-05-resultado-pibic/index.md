@@ -13,6 +13,7 @@ informações sobre o programa [aqui]({{< relref "/modalidade/pibic" >}}).
 - [Avaliação dos projetos](/documentos/editais/PIBIC-2024-Avaliacao.pdf)
 - [Resultados finais](/documentos/editais/PIBIC-2024-Resultado.pdf)
 
+**Caso seu projeto não tenha sido contemplado com bolsa PIBIC este ano e haja interesse na realização da IC, indicamos o cadastro do projeto como [PICV](https://paic.ita.br/modalidade/picv/) para que a IC seja formalizada. Caso este mesmo projeto venha a ser contemplado futuramente, bastará migrar a modalidade da IC.**
 
 ## Calendário
 
