@@ -4,7 +4,7 @@ type: event
 
 event: XXIX Encontro de Iniciação Científica do Instituto Tecnológico de Aeronáutica
 
-location: Instituto Tecnológico de Aeronáutica
+location: Auditório WEIS, Instituto Tecnológico de Aeronáutica
 address:
   street: Praça Marechal Eduardo Gomes, 50
   city: São José dos Campos
