@@ -1,14 +1,14 @@
 ---
-title: Filipe A. N. Verri
+title: Sarah N. de C. Leite
 role: Divulgação
 
 social:
 - icon: globe
   icon_pack: fas
-  link: 'http://www.comp.ita.br/~verri/'
+  link: 'https://www.linkedin.com/in/sarah-negreiros-ab2870296/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:verri@ita.br'
+  link: 'mailto:sarahnc@ita.br'
 
 highlight_name: false
 
