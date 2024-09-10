@@ -77,20 +77,18 @@ de Aeronáutica, no dia **16 de setembro de 2024**.
 - Palestra de Encerramento : 15:30h - 16:20h
 - Premiações e Encerramento : 16:20h - 17:00h
 
-** Lista de Artigos Aceitos para Apresentação em Painel**
+**Lista de Artigos Aceitos para Apresentação em Painel**
 
 [Artigos Aceitos / Divisão nos Grupos](/documentos/encita/cronograma-2024.pdf)
 
 **Instruções Gerais**
 
 1. Todos os autores dos artigos aceitos estão automaticamente inscritos no evento. Para inscrições adicionais, enviar email para coordenação (caic@ita.br).
-
 1. Todos os artigos deverão ser apresentados no formato de poster **presencialmente**.
-  - **É responsabilidade do participante imprimir o pôster**.
-  - O tamanho sugerido é A0 ou 120cm x 90cm em lona **com cordão**.
-  - O credenciamento ocorrerá na abertura do evento.
-  - Artigos não apresentados, não concorrerão ao prêmio e não serão publicados nos anais do evento.
-
+    - **É responsabilidade do participante imprimir o pôster**.
+    - O tamanho sugerido é A0 ou 120cm x 90cm em lona **com cordão**.
+    - O credenciamento ocorrerá na abertura do evento.
+    - Artigos não apresentados, não concorrerão ao prêmio e não serão publicados nos anais do evento.
 1. Em caso de dúvidas, entre em contato com a coordenação (caic@ita.br).
 
 # Datas importantes
