@@ -33,7 +33,6 @@ Professores que já manifestaram interesse em orientar trabalhos na área de Ene
 Outros professores do ITA que tenham interesse em participar deste edital, podem entrar em contato pelo email: caic@ita.br  
 {{% /callout %}}
 
-
 ## Calendário
 - Lançamento do Edital: **11 de dezembro de 2024**
 - Recebimento de propostas: **até 28 de fevereiro de 2024**
@@ -55,7 +54,6 @@ Outros professores do ITA que tenham interesse em participar deste edital, podem
 Entre outros requisitos que podem ser consultados na íntegra no [edital](/documentos/editais/CDV-2025.pdf).
 
 ## Inscrição
-
 As inscrições são realizadas via
 [formulário online](https://airtable.com/appEBLkmhQUaDpJQa/pag0ga5ipIoqvR33G/form) e os projetos
 de pesquisa devem seguir [este modelo](/documentos/modelos/template_CdV.docx). Consulte

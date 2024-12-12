@@ -1,14 +1,14 @@
 ---
-title: Sarah N. de C. Leite
+title: Bartolomeu Ferreira Uchôa Filho
 role: Divulgação
 
 social:
 - icon: globe
   icon_pack: fas
-  link: 'https://www.linkedin.com/in/sarah-negreiros-ab2870296/'
+  #link: 'https://www.linkedin.com/in/sarah-negreiros-ab2870296/'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sarahnc@ita.br'
+  link: 'mailto:bartolomeu@ita.br'
 
 highlight_name: false
 
