@@ -1,7 +1,7 @@
-theme: coffee
-day_night: false
-font: native
-font_size: M
+appearance:
+  theme_day: coffee
+  font: native
+  font_size: M
 
 # SEO
 
