@@ -13,19 +13,35 @@ Alunos de graduação do ITA interessados em participar do programa devem entrar
 
 {{% callout warning %}}
 Professores que já manifestaram interesse em orientar trabalhos na área de Energia Renovável:
+
+
 1 - Profa. Ana María Gómez-Marín - Divisão de Ciências Fundamentais
   - Tema: Modelamento de Sistemas de Armazenamento (Ex. Baterias).
+
+
 2 - Prof. Carlos Cesar Eguti - Divisão de Engenharia Mecânica
+
+
 3 - Profa. Izabela Batista Henriques - Divisão de Engenharia Mecânica
   - Temas: Engenharia Eólica, Solar e baterias. Modelamento de sistemas de armazenamento
+
+
 4 - Prof. Marcus Henrique Victor Junior - Divisão de Engenharia Eletrônica
   - Tema: Inovação/Eletrificação de sistemas
+
+
 5- Profa. Mariá Cristina Vasconcelos Nascimento - Divisão de Ciência da Computação
   - Tema: Estratégia de Mercado
+
+
 6 - Prof. Sérgio Gustavo Ferreira Cordeiro - Divisão de Engenharia Civil
   - Temas: Engenharia Eólica, Solar e baterias. Modelamento do Vento (Ex. CFD)  
+
+
 7 - Prof. Valério Rosset - Divisão de de Ciência da Computação 
   - Temas: Tecnologia para o Sistema Elétrico Brasileiro. Pesquisar aspectos de cybersegurança para infraestrutura do setor elétrico.
+
+
 8 - Prof. Vitor Gabriel Kleine - Divisão de Engenharia Aeronáutica e Aeroespacial 
   - Tema: Modelamento do Vento 
 
