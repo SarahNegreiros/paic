@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | PAIC | ITA</title>
+    <link>https://paic.ita.br/publication_types/2/</link>
+      <atom:link href="https://paic.ita.br/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2024 CAIC ITA</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://paic.ita.br/media/logo_hu84e2d0e7e74fe2aa16868789027b8034_7235_300x300_fit_lanczos_2.png</url>
+      <title>2</title>
+      <link>https://paic.ita.br/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://paic.ita.br/publicacao/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://paic.ita.br/publicacao/journal-article/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
+    </item>
+    
+  </channel>
+</rss>

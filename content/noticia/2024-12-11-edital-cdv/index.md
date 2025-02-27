@@ -46,12 +46,16 @@ Professores que já manifestaram interesse em orientar trabalhos na área de Ene
   - Tema: Modelamento do Vento 
 
 
+9- Prof. Vinicius Del Colle - Divisão de Ciências Fundamentais
+  - Tema: Modelamento de Sistemas de Armazenamento (Ex. Baterias)
+
+
 Outros professores do ITA que tenham interesse em participar deste edital, podem entrar em contato pelo email: caic@ita.br  
 {{% /callout %}}
 
 ## Calendário
-- Lançamento do Edital: **11 de dezembro de 2024**
-- Recebimento de propostas: **até 28 de fevereiro de 2024**
+- Lançamento do Edital: **11 de dezembro de 2024** (edital foi retificado em 27/02/2025)
+- Recebimento de propostas: **até 10 de março de 2025**
 - Divulgação dos projetos habilitados e da classificação dos projetos: **até 25 de março 2025**
 - Assinatura dos Termos de Outorga: **até 01 de abril 2025**
 - Início dos projetos: **01 de abril 2025**
@@ -67,7 +71,7 @@ Outros professores do ITA que tenham interesse em participar deste edital, podem
 ## Requisitos do Orientador
 - O Orientador deve ter vínculo institucional formal com o ITA, título de doutor ou qualificação equivalente, competência e produtividade em pesquisa na área do projeto apresentado.
 
-Entre outros requisitos que podem ser consultados na íntegra no [edital](/documentos/editais/CDV-2025.pdf).
+Entre outros requisitos que podem ser consultados na íntegra no [edital retificado](/documentos/editais/CDV-2025.pdf).
 
 ## Inscrição
 As inscrições são realizadas via

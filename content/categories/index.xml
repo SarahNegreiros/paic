@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | PAIC | ITA</title>
+    <link>https://paic.ita.br/categories/</link>
+      <atom:link href="https://paic.ita.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><copyright>© 2024 CAIC ITA</copyright>
+    <image>
+      <url>https://paic.ita.br/media/logo_hu84e2d0e7e74fe2aa16868789027b8034_7235_300x300_fit_lanczos_2.png</url>
+      <title>Categories</title>
+      <link>https://paic.ita.br/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
