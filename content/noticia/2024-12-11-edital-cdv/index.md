@@ -8,10 +8,13 @@ summary: >
 ---
 
 {{% callout warning %}}
-Alunos de graduação do ITA interessados em participar do programa devem entrar em contato com um professor orientador.  
+[Resultado do Edital](/documentos/editais/Resultado-CDV-2025.pdf).
+
 {{% /callout %}}
 
-{{% callout warning %}}
+
+Alunos de graduação do ITA interessados em participar do programa devem entrar em contato com um professor orientador.  
+
 Professores que já manifestaram interesse em orientar trabalhos na área de Energia Renovável:
 
 
@@ -51,7 +54,7 @@ Professores que já manifestaram interesse em orientar trabalhos na área de Ene
 
 
 Outros professores do ITA que tenham interesse em participar deste edital, podem entrar em contato pelo email: caic@ita.br  
-{{% /callout %}}
+
 
 ## Calendário
 - Lançamento do Edital: **11 de dezembro de 2024** (edital foi retificado em 27/02/2025)

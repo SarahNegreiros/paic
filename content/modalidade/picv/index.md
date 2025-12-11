@@ -2,7 +2,7 @@
 title: PICV
 type: project
 summary: Programa de Iniciação Científica e Tecnológica Voluntária
-date: 2021-08-06T10:33:13-03:00
+date: 2025-04-25
 ---
 
 ## O que é o programa?
@@ -34,7 +34,7 @@ As inscrições são realizadas em fluxo contínuo.
 O processo consiste em:
 
 - Orientador e aluno desenvolvem proposta de projeto conforme o [modelo](/documentos/modelos/picv.docx);
-- Orientador preenche o [formulário online](https://airtable.com/shrJ4ZII0eNNZB4n3);
+- Orientador preenche o [formulário online](https://airtable.com/appXZKCkARlL6eDo7/pag0ga5ipIoqvR33G/form);
 - A coordenação verifica a documentação e o projeto em reuniões bimestrais;
 - Se estiver tudo em ordem, a coordenação entra em contato com o orientador
   indicando a aprovação e início das atividades (com possibilidade de contagem
@@ -49,7 +49,8 @@ Mais informações, consulte a [Comunicação Nº 02 ITA/CAIC 2021](/documentos/
 
 ## Projetos ativos
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrxpwtveorf0LsBF?backgroundColor=orange&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<!--<iframe class="airtable-embed" src="https://airtable.com/embed/shrxpwtveorf0LsBF?backgroundColor=orange&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> -->
+<iframe class="airtable-embed" src="https://airtable.com/embed/appXZKCkARlL6eDo7/shr3HEV6JNOEeLZpk?layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## FAQ
 

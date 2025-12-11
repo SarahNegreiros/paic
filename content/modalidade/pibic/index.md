@@ -47,7 +47,17 @@ sequenceDiagram
   Aluno->>Coordenação: Publica no ENCITA
 ```
 
-## Informações sobre bolsas 2023/2024
+## Informações sobre bolsas 2024/2025
+
+Consultar edital [aqui](/documentos/editais/PIBIC-2024.pdf).
+
+- Não será necessário encaminhar o relatório parcial para a coordenação.
+- Todos os bolsistas deverão participar do [ENCITA 2025](/evento/encita-2025/), com previsão de ocorrer
+  em **15 de setembro de 2025**.
+- O relatório final [(modelo docx)](/documentos/modelos/relatorio-pibic.docx), [(modelo tex)](/documentos/modelos/template_pibic_ita.zip)
+  com as devidas assinaturas, deverá ser encaminhado até 01/10/2025 pelo [(formulário)](https://airtable.com/appaAE5RgXJO2bX0x/pag0zwEmlRTHSfrI3/form).
+
+<!--## Informações sobre bolsas 2023/2024
 
 Consultar edital [aqui](/documentos/editais/PIBIC-2023.pdf).
 
@@ -74,7 +84,7 @@ e [aqui](/documentos/editais/PIBIC-2022b.pdf).
   em **setembro de 2023**.
 - O relatório final [(*novo* modelo aqui)](/documentos/modelos/relatorio-pibic.docx),
   com as devidas assinaturas, deverá ser encaminhado para caic@ita.br ~~até
-  01/10/2023~~ até 31/10/2023.
+  01/10/2023~~ até 31/10/2023. -->
 
 ## FAQ
 
